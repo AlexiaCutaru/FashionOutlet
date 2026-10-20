@@ -1,6 +1,6 @@
 # FashionOutlet
 
-# 🌌 Outlet Galaxy – Cosmic Fashion Experience
+# 🌌 Outlet Galaxy – Fashion Experience
 
 ## 📖 Despre aplicație
 
