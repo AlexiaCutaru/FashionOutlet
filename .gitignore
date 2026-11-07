@@ -1,0 +1,24 @@
+# Android Studio
+*.iml
+.gradle/
+.idea/
+local.properties
+.DS_Store
+
+# Build files
+/build/
+/app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Firebase configuration
+google-services.json
+
+# Private keys and environment files
+*.jks
+*.keystore
+*.pem
+*.p12
+.env
+*.env
